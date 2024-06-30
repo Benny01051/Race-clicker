@@ -1,0 +1,2 @@
+# Race-clicker
+quick script
